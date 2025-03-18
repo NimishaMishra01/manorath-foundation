@@ -6,27 +6,23 @@ import { ArrowBackIos, ArrowForwardIos } from "@mui/icons-material";
 const initiatives = [
   {
     title: "ABCD Project with Toyota in Varanasi",
-    images: ["/images/abcdProject/abcd1.jpg", "/images/abcdProject/abcd2.jpg", "/images/abcdProject/abcd3.jpg", "/images/abcdProject/abcd4.jpg"],
-    description:
-      "A counseling & personal hygiene awareness program was organized by Manorath Foundation at Radha Kishori Government Girls College in Ramnagar District Varanasi with support of Toyota Kirlosakar Motors...",
+    images: ["/images/abcdProject/abcd1.jpg", "/images/abcdProject/abcd2.jpg", "/images/abcdProject/abcd3.jpg","/images/abcdProject/abcd4.jpg"],
+    description: "A counseling & personal hygiene awareness program was organized by Manorath Foundation at Radha Kishori Government Girls College in Ramnagar District Varanasi with support of Toyota Kirlosakar Motors. Our chief guest Ms. Sandhya Shetty (Actor, model, Karate gold medalist in Common wealth games) spoke to the girls about how they can maintain personal hygiene, which is a main problem in the rural India.Also swachhta captains have been nominated in every class among the students who will monitor the cleanliness and motivate the girls for hygiene & cleanliness."
   },
   {
     title: "Open Gym",
-    images: ["/images/openGym/gym1.jpg", "/images/openGym/gym2.jpg", "/images/openGym/gym3.jpg", "/images/openGym/gym4.jpg"],
-    description:
-      "The Manorath Foundation’s initiative aims to promote public health and fitness by establishing open gyms across Uttar Pradesh...",
+    images: ["/images/openGym/gym1.jpg", "/images/openGym/gym2.jpg", "/images/openGym/gym3.jpg","/images/openGym/gym4.jpg"],
+    description: "The Manorath Foundation’s initiative aims to promote public health and fitness by establishing open gyms across Uttar Pradesh. These gyms provide free access to outdoor fitness equipment, helping people adopt healthier lifestyles and prevent lifestyle-related diseases.The project encourages community participation in fitness, especially for those who lack access to traditional gyms, such as low-income individuals, women, and senior citizens. It also focuses on enhancing public infrastructure by integrating gym facilities into parks, making them more attractive and functional.By fostering social impact and behavioral change, the initiative promotes a fitness culture that benefits individuals and society. Additionally, the project represents a government-NGO collaboration, demonstrating the importance of partnerships in addressing public health challenges."
   },
   {
     title: "Child Support",
-    images: ["/images/child-empowerment1.png", "/images/child-empowerment2.png", "/images/child-empowerment3.png", "/images/child-empowerment4.png"],
-    description:
-      "The foundation focused on ensuring children's rights, education, health, and safety through various initiatives...",
+    images: ["/images/child-empowerment1.png", "/images/child-empowerment2.png", "/images/child-empowerment3.png","/images/child-empowerment4.png"],
+    description: "The foundation focused on ensuring children's rights, education, health, and safety through various initiatives. By creating safe spaces such as community centers and programs, it provided a secure environment for children, especially those from vulnerable communities. Mentorship and skill development programs helped children nurture talents in areas like painting, music, leadership, and critical thinking. Awareness campaigns educated society on critical issues such as child abuse and labor. Additionally, scholarship programs supported underprivileged children in pursuing their education. One such initiative, Bright Futures: Mentoring Young Minds, involved professionals from fields like education, business, and technology mentoring children from low-income backgrounds. The program also included an annual talent exhibition, allowing children to showcase their skills in arts, sports, and other areas, boosting their confidence and aspirations."
   },
   {
     title: "Food and Grain Distribution during Covid 19 Pandemic",
     images: ["/images/pandemic.png"],
-    description:
-      "During the Covid-19 pandemic, the foundation provided essential food and grain support to underprivileged families...",
+    description: "The foundation focused on ensuring children's rights, education, health, and safety through various initiatives. By creating safe spaces such as community centers and programs, it provided a secure environment for children, especially those from vulnerable communities. Mentorship and skill development programs helped children nurture talents in areas like painting, music, leadership, and critical thinking. Awareness campaigns educated society on critical issues such as child abuse and labor. Additionally, scholarship programs supported underprivileged children in pursuing their education. One such initiative, Bright Futures: Mentoring Young Minds, involved professionals from fields like education, business, and technology mentoring children from low-income backgrounds. The program also included an annual talent exhibition, allowing children to showcase their skills in arts, sports, and other areas, boosting their confidence and aspirations."
   },
 ];
 
